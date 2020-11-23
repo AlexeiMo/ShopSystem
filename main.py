@@ -6,8 +6,8 @@ if __name__ == "__main__":
 
     utils = JsonUtils()
 
-    # read json objects from "goods.json"
-    goods_to_store = utils.read_json("goods.json")
+    # read json objects from "test_goods.json"
+    goods_to_store = utils.read_json("test_goods.json")
 
     keys = list(goods_to_store.keys())
 
