@@ -1,0 +1,47 @@
+{
+  "good0": {
+    "name": "Apple",
+    "price": 5.99,
+    "category": "Food"
+  },
+  "good1": {
+    "name": "Hammer",
+    "price": 10.99,
+    "category": "Tools"
+  },
+  "good2": {
+    "name": "Keyboard",
+    "price": 30.99,
+    "category": "Electronics"
+  },
+  "good3": {
+    "name": "Harry Potter and Hidden Room",
+    "price": 10.99,
+    "category": "Books"
+  },
+  "good4": {
+    "name": "Banana",
+    "price": 3.49,
+    "category": "Food"
+  },
+  "good5": {
+    "name": "Blackberries",
+    "price": 7.99,
+    "category": "Food"
+  },
+  "good6": {
+    "name": "Brush",
+    "price": 9.99,
+    "category": "Tools"
+  },
+  "good7": {
+    "name": "Thermometer",
+    "price": 20.99,
+    "category": "Electronics"
+  },
+  "good8": {
+    "name": "Treasure Island",
+    "price": 15.99,
+    "category": "Books"
+  }
+}
